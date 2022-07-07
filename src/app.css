@@ -1,0 +1,53 @@
+.movie_box {
+    border: 2.5px solid red;
+  }
+  .movies {
+    margin: 10px 10px 0 10px;
+    padding-left: 10px;
+  
+    justify-content: space-around;
+      margin: 10px 10px 0 10px;
+      padding-left: 148px;
+  }
+  
+  .card-body {
+    text-align: center;
+    box-shadow: 0 15px 15px -8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .card-body h6 {
+    text-transform: uppercase;
+  }
+  
+  .title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+    align-content: center;
+  }
+  body{
+    background-color: azure;
+  }
+
+
+
+  .movie-list{
+    display:flex;
+    flex-flow: row wrap;
+    margin-right: 28px;
+    margin-left: -48px;
+  }
+  .heading{
+    text-align: center;
+    background-color: palevioletred;
+    /* padding: 10px 20px; */
+    margin: 20px 10px;
+  }
+
+
+  .search-box{
+    height: 52px;
+    width: 200px;
+    background-color: aqua;
+    margin: 10px 10px;
+  } 
